@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Mahnoor Anjum</h1>
-<h3 align="center">An Electrical Engineer from Pakistan</h3>
+<h3 align="center">An Electrical Engineer passionate about Computer Science</h3>
 
 - 🔭 I’m currently working on **Colorization of Legacy Photographs**
 
