@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Colorization of Legacy Photographs**
 
+- 🤝 I’m currently doing my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
+
 - 🌱 I’m currently learning **Artificial Intelligence, Wireless Communication, Data Science, Web Design and Development, IOS and Android development**
 
 - 👯 I’m looking to collaborate on **Machine Intelligent Projects**
@@ -32,5 +34,6 @@ Here are some ideas to get you started:
 [IEEE's 6th International Workshop of CorNer](https://scriptophiles.wixsite.com/vtc2020spring)
 
 [IEEE's International Workshop on ESSCA: Emerging Security Solutions for Critical Applications](https://scriptophiles.wixsite.com/essca20)
+
 
 
