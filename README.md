@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Mahnoor Anjum</h1>
 
-- 🔭 I’m currently working on **Colorization of Legacy Photographs**
-
+- 🔭 I’m currently working on **Sign Language Translation**
+- 
 - 🤝 I’m currently doing my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Wireless Communication, Data Science and Web Development**
 
-- 👯 I’m looking to collaborate on **Machine Intelligent Projects**
+- 👯 I’m looking to collaborate on **Machine Intelligent Project**
 
 - 🤝 I’m looking for help with **Beyond 5G technologies and Wireless communication**
 
