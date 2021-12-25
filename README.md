@@ -35,4 +35,4 @@ Here are some ideas to get you started:
 
 
 <h3>My Github Statistics</h3>
-[!(https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooranjum)]
+![Mahnoor's's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahnooranjum&count_private=true&theme=tokyonight)
