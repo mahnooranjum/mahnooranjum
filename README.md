@@ -35,5 +35,4 @@ Here are some ideas to get you started:
 
 
 <h3>My Github Statistics</h3>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooranjum&langs_count=8)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahnooranjum)]
