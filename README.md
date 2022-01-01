@@ -36,5 +36,5 @@ Here are some ideas to get you started:
 
 <h3>My Github Statistics</h3>
 
-![Mahnoor's's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter%20notebook&username=mahnooranjum&count_private=true&theme=github_dark&langs_count=4)
+![Mahnoor's's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter%20notebook&username=mahnooranjum&count_private=true&layout=compact&theme=github_dark&langs_count=6)
 ![Mahnoor's's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=mahnooranjum&show_icons=true&theme=github_dark)
