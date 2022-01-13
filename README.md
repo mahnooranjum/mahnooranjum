@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 
 
-<h3>My Github Statistics</h3>
+<!-- <h3>My Github Statistics</h3> -->
 
 <!-- ![Mahnoor's's GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?hide=jupyter%20notebook&username=mahnooranjum&count_private=true&theme=github_dark&langs_count=6) -->
 
