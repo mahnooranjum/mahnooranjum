@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Mahnoor Anjum</h1>
 
 - 🔭 I’m currently working on a **Virtual Reality Biometrics System**
-- 🤝 I’m currently doing my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
+- 🤝 I’ve completed my **Masters in Electrical Engineering** at the National University of Sciences and Technology (NUST)
 
 - 🌱 I’m currently learning **Artificial Intelligence, Wireless Communication, Data Science and Web Development**
 
